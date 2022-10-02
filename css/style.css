@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(201, 201, 201);
+}
+h1{
+    background-color: rgb(252, 117, 117);
+    text-align: center;
+    width: 150px;
+    border-radius: 5px;
+    margin: auto;
+}
+div{
+    background-color: rgb(252, 230, 183);
+    text-align: center;
+    width: 200px;
+    position: relative;
+    top: 5px;
+    border-radius: 5px;
+    margin: auto;
+}
+div script{
+   background-color: aqua; 
+}
+h6{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
